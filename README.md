@@ -68,13 +68,11 @@ Stubs are left out of the data files unless you pass `--include-stubs`. The scri
 - Code (`build/`): MIT. See `LICENSE`.
 - Data and prose (`entries/`, `data/`, `METHOD.md`): CC BY 4.0. See `LICENSE-DATA.md`.
 
-Suggested attribution: "Angela Reeder, Classification Ledger, [repository URL]".
+Suggested attribution: "Angela Reeder, Classification Ledger, https://github.com/ember-elkes/classification-ledger/".
 
 ## Corrections
 
 Corrections are welcome and expected. Open an issue on this repository with the entry, the placement you think is wrong, and the evidence. Accepted corrections are logged in `CHANGELOG.md` and in the entry's `history`, so changes stay visible.
-
-[Add a contact method here if you want one besides issues.]
 
 ## Pace
 
